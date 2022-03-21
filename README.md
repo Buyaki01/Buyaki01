@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ## My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buyaki01" /> | <img src="https://github-readme-stats.vercel.app/api?username=m05e5&show_icons=true" alt="buyaki01" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buyaki01" /> | <img src="https://github-readme-stats.vercel.app/api?username=buyaki01&show_icons=true" alt="buyaki01" /> |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------
