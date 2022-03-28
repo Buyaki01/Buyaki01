@@ -13,18 +13,25 @@
 
 <p>💼 Looking for new opportunities.</p>
 
+## Languages and Tools
 
-- **Code:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png"></code>
-<code><img height="20" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png"></code>
-<code><img height="25" src="https://github.com/voodootikigod/logo.js/blob/master/js.png"></code>
-
-- **Tools & Methods:** Git, GitHub, Mobile/Responsive Development, Chrome Dev Tools, VS Code, Slack	
-- **Professional:** Remote Pair-Programming, Teamwork
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=black)
+![React](https://img.shields.io/badge/react-F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=blue)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=red&color=white)
+![RubyOnRails](https://img.shields.io/badge/RubyOnRails-F7DF1E.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white&color=red)
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white&color=red)
+![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=white&color=blue)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## My Stats
 
