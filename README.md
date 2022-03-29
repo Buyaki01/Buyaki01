@@ -26,7 +26,6 @@
 ![ESLint](https://img.shields.io/badge/eslint-4B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white&color=red)
 ![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=white&color=blue)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
