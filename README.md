@@ -30,8 +30,3 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-## My Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buyaki01" /> | <img src="https://github-readme-stats.vercel.app/api?username=buyaki01&show_icons=true" alt="buyaki01" /> |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------
