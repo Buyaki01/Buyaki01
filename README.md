@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/ritta-sweta/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
   <a href="mailto:rittahbuyaki@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 </p>
-<p>💻 I'm a Full-Stack developer currently living in Kenya with experience in JavaScript, MERN Stack( MongoDB, Express.js, React, Node.js) and Ruby on Rails. I am capable of working remotely and I am also open to relocating </p>
+<p>💻 I'm a Full-Stack developer currently living in Kenya with experience in JavaScript, MERN Stack( MongoDB, Express.js, React, Node.js), Redux Toolkit, Ruby on Rails, and PostgreSQL. I am capable of working remotely and I am also open to relocating </p>
 
-<p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in github.</p>
+<p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in Git Hub.</p>
 
 <p>💼 Looking for new opportunities.</p>
 
@@ -21,6 +21,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=blue)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=red&color=white)
 ![RubyOnRails](https://img.shields.io/badge/RubyOnRails-F7DF1E.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white&color=red)
