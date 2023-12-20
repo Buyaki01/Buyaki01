@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ritta-sweta/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
   <a href="mailto:rittahbuyaki@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 </p>
-<p>💻 I'm a Full-Stack developer currently living in Kenya with experience in JavaScript, MERN Stack( MongoDB, Express.js, React, Node.js), TypeScript, NextJS, Redux Toolkit, Ruby on Rails, and PostgreSQL. I am capable of working remotely and I am also open to relocating </p>
+<p>💻 I'm a Full-Stack developer currently living in Kenya with experience in NextJS, JavaScript, MERN Stack( MongoDB, Express.js, React, Node.js), TypeScript, Redux Toolkit, Ruby on Rails, and PostgreSQL. I am capable of working remotely and I am also open to relocating </p>
 
 <p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in Git Hub.</p>
 
@@ -14,6 +14,7 @@
 
 ## Languages and Tools
 
+![NextJS](https://img.shields.io/badge/next.js-%234ea94b.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=black)
