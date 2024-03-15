@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/ritta-sweta/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
   <a href="mailto:rittahbuyaki@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 </p>
-<p>💻 I'm a Full-Stack developer currently living in Kenya with experience in NextJS, JavaScript, MERN Stack( MongoDB, Express.js, React, Node.js), TypeScript, Redux Toolkit, Ruby on Rails, and PostgreSQL. I am capable of working remotely and I am also open to relocating </p>
+<p>💻 I'm a Full-Stack developer currently living in Kenya with experience in NextJS, MERN Stack( MongoDB, Express.js, React, Node.js), JavaScript, Redux Toolkit, TypeScript, Ruby on Rails, and PostgreSQL. I am capable of working remotely and I am also open to relocating </p>
 
-<p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in Git Hub.</p>
+<p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in GitHub.</p>
 
 <p>💼 Looking for new opportunities.</p>
 
