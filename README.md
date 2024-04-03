@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ritta-sweta/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
   <a href="mailto:rittahbuyaki@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 </p>
-<p>💻 I'm a Full-Stack developer currently living in Kenya with experience in NextJS, MERN Stack( MongoDB, Express.js, React, Node.js), JavaScript, Redux Toolkit, TypeScript, TailwindCSS, Ruby on Rails, and PostgreSQL. I am capable of working remotely and I am also open to relocating </p>
+<p>💻 I'm a Full-Stack developer currently living in Kenya with experience in NextJS, React, Angular, MERN Stack( MongoDB, Express.js, React, Node.js), JavaScript, Redux Toolkit, TypeScript, TailwindCSS, Ruby on Rails, and PostgreSQL. I am capable of working remotely and I am also open to relocating </p>
 
 <p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in GitHub.</p>
 
@@ -16,6 +16,7 @@
 
 ![NextJS](https://img.shields.io/badge/next.js-F7DF1E.svg?style=for-the-badge&logo=nextjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=blue)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=black)
