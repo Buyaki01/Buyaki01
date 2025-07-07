@@ -12,6 +12,10 @@
 
 <p>💼 Looking for new opportunities.</p>
 
+<p>🌐 <strong>Check out my portfolio: </strong> <a href="https://react-portfolio-website-djzj.onrender.com" target="_blank">react-portfolio-website-djzj.onrender.com</a></p>
+
+<p>📫 Contact me: <a href="mailto:rittahbuyaki@gmail.com">rittahbuyaki@gmail.com</a> | <a href="https://www.linkedin.com/in/ritta-sweta/" target="_blank">LinkedIn</a></p>
+
 ## Languages and Tools
 
 ![NextJS](https://img.shields.io/badge/next.js-F7DF1E.svg?style=for-the-badge&logo=nextjs&logoColor=white)
