@@ -12,7 +12,7 @@
 
 <p>💼 Looking for new opportunities.</p>
 
-<p>🌐 <strong>Check out my portfolio: </strong> <a href="https://ritta-sweta.vercel.app" target="_blank">here</a></p>
+<p>🌐 <strong>Check out my portfolio: </strong> <a href="https://ritta-sweta.vercel.app" target="_blank">https://ritta-sweta.vercel.app</a></p>
 
 <p>📫 Contact me: <a href="mailto:rittahbuyaki@gmail.com">rittahbuyaki@gmail.com</a> | <a href="https://www.linkedin.com/in/ritta-sweta/" target="_blank">LinkedIn</a></p>
 
